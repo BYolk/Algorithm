@@ -1,0 +1,1 @@
+﻿//Console.WriteLine("如果 Program.cs 有代码，默认调用 Program.cs 的代码，不管其它类中定义的入口函数");
